@@ -1,0 +1,11 @@
+create or replace function Get_Count_For_Specific_Level("levelId" int)
+returns int as $$
+declare 
+	"valueCount" int;
+begin
+	select coalesce(sum("count"), 0) into "valueCount" 
+	from "Statistics"
+	where "level"="levelId";
+return "valueCount";
+end;
+$$ language plpgsql;

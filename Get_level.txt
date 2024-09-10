@@ -1,0 +1,11 @@
+create or replace function get_level("level_id" int)
+returns int as $$
+declare
+"levelId" int;
+begin
+select "level" into "levelId"
+from "Statistics"
+where "level" = "level_id";
+return "levelId";
+end;
+$$ language plpgsql

@@ -1,0 +1,24 @@
+C:\Users\HP\Desktop\CloneRepo2\faq\Common\bin\Release\net8.0\Common.deps.json
+C:\Users\HP\Desktop\CloneRepo2\faq\Common\bin\Release\net8.0\Common.dll
+C:\Users\HP\Desktop\CloneRepo2\faq\Common\bin\Release\net8.0\Common.pdb
+C:\Users\HP\Desktop\CloneRepo2\faq\Common\obj\Release\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CloneRepo2\faq\Common\obj\Release\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CloneRepo2\faq\Common\obj\Release\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CloneRepo2\faq\Common\obj\Release\net8.0\Common.AssemblyInfo.cs
+C:\Users\HP\Desktop\CloneRepo2\faq\Common\obj\Release\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CloneRepo2\faq\Common\obj\Release\net8.0\Common.dll
+C:\Users\HP\Desktop\CloneRepo2\faq\Common\obj\Release\net8.0\refint\Common.dll
+C:\Users\HP\Desktop\CloneRepo2\faq\Common\obj\Release\net8.0\Common.pdb
+C:\Users\HP\Desktop\CloneRepo2\faq\Common\obj\Release\net8.0\ref\Common.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Common\bin\Release\net8.0\Common.deps.json
+C:\Users\user\Desktop\Internship 2024\FAQ\Common\bin\Release\net8.0\Common.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Common\bin\Release\net8.0\Common.pdb
+C:\Users\user\Desktop\Internship 2024\FAQ\Common\obj\Release\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Internship 2024\FAQ\Common\obj\Release\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Internship 2024\FAQ\Common\obj\Release\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Internship 2024\FAQ\Common\obj\Release\net8.0\Common.AssemblyInfo.cs
+C:\Users\user\Desktop\Internship 2024\FAQ\Common\obj\Release\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Internship 2024\FAQ\Common\obj\Release\net8.0\Common.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Common\obj\Release\net8.0\refint\Common.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Common\obj\Release\net8.0\Common.pdb
+C:\Users\user\Desktop\Internship 2024\FAQ\Common\obj\Release\net8.0\ref\Common.dll

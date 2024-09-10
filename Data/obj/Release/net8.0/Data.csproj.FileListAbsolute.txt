@@ -1,0 +1,34 @@
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\bin\Release\net8.0\Data.deps.json
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\bin\Release\net8.0\Data.runtimeconfig.json
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\bin\Release\net8.0\Data.dll
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\bin\Release\net8.0\Data.pdb
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\bin\Release\net8.0\Common.dll
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\bin\Release\net8.0\Common.pdb
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\obj\Release\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\obj\Release\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\obj\Release\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\obj\Release\net8.0\Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\obj\Release\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\obj\Release\net8.0\Data.csproj.Up2Date
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\obj\Release\net8.0\Data.dll
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\obj\Release\net8.0\refint\Data.dll
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\obj\Release\net8.0\Data.pdb
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\obj\Release\net8.0\Data.genruntimeconfig.cache
+C:\Users\HP\Desktop\CloneRepo2\faq\Data\obj\Release\net8.0\ref\Data.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\bin\Release\net8.0\Data.deps.json
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\bin\Release\net8.0\Data.runtimeconfig.json
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\bin\Release\net8.0\Data.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\bin\Release\net8.0\Data.pdb
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\bin\Release\net8.0\Common.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\bin\Release\net8.0\Common.pdb
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\obj\Release\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\obj\Release\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\obj\Release\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\obj\Release\net8.0\Data.AssemblyInfo.cs
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\obj\Release\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\obj\Release\net8.0\Data.csproj.Up2Date
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\obj\Release\net8.0\Data.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\obj\Release\net8.0\refint\Data.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\obj\Release\net8.0\Data.pdb
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\obj\Release\net8.0\Data.genruntimeconfig.cache
+C:\Users\user\Desktop\Internship 2024\FAQ\Data\obj\Release\net8.0\ref\Data.dll

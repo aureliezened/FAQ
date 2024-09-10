@@ -1,0 +1,34 @@
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\bin\Release\net8.0\Business.deps.json
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\bin\Release\net8.0\Business.dll
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\bin\Release\net8.0\Business.pdb
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\bin\Release\net8.0\Common.dll
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\bin\Release\net8.0\Data.dll
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\bin\Release\net8.0\Common.pdb
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\bin\Release\net8.0\Data.pdb
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\obj\Release\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\obj\Release\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\obj\Release\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\obj\Release\net8.0\Business.AssemblyInfo.cs
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\obj\Release\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\obj\Release\net8.0\Business.csproj.Up2Date
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\obj\Release\net8.0\Business.dll
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\obj\Release\net8.0\refint\Business.dll
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\obj\Release\net8.0\Business.pdb
+C:\Users\HP\Desktop\CloneRepo2\faq\Business\obj\Release\net8.0\ref\Business.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\obj\Release\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\obj\Release\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\obj\Release\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\obj\Release\net8.0\Business.AssemblyInfo.cs
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\obj\Release\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\obj\Release\net8.0\Business.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\obj\Release\net8.0\refint\Business.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\obj\Release\net8.0\Business.pdb
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\bin\Release\net8.0\Business.deps.json
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\bin\Release\net8.0\Business.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\bin\Release\net8.0\Business.pdb
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\bin\Release\net8.0\Common.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\bin\Release\net8.0\Data.dll
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\bin\Release\net8.0\Common.pdb
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\bin\Release\net8.0\Data.pdb
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\obj\Release\net8.0\Business.csproj.Up2Date
+C:\Users\user\Desktop\Internship 2024\FAQ\Business\obj\Release\net8.0\ref\Business.dll

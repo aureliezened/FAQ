@@ -1,0 +1,19 @@
+CREATE OR REPLACE FUNCTION get_statistics_sum_by_level_and_user(p_level int, p_user_id int)
+RETURNS TABLE("level" int, "userIdentifier" int, "sum" int) AS $$
+DECLARE
+    "UserID" uuid;
+BEGIN
+    -- Retrieve the UUID based on userIdentifier
+    SELECT "Users"."userId" INTO "UserID" 
+    FROM "Users"
+    WHERE "Users"."userIdentifier" = p_user_id;
+    
+    RETURN QUERY
+    SELECT s."level", u."userIdentifier", COALESCE(CAST(SUM(s."count") AS int), 0) AS "sum"
+    FROM "Statistics" s
+    JOIN "Users" u ON s."userId" = u."userId"
+    WHERE s."level" = p_level AND s."userId" = "UserID"
+    GROUP BY s."level", u."userIdentifier";
+    
+END;
+$$ LANGUAGE plpgsql;
